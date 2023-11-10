@@ -39,6 +39,6 @@
       }
     ]
   },
-  "manifest": "https://raw.githubusercontent.com/jasonmc1993/PF2e-Relics/main/module.json",
+  "manifest": "https://raw.githubusercontent.com/jasonmc1993/pf2e-relics/main/module.json",
   "download": "https://github.com/jasonmc1993/PF2e-Relics/archive/refs/heads/main.zip"
 }
