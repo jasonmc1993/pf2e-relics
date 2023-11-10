@@ -1,0 +1,44 @@
+{
+  "id": "pf2e-relics",
+  "title": "PF2e Relics",
+  "description": "A collection of Relic Items (Feats, Boons, etc.) for PF2e on Foundry VTT.",
+  "authors": [
+    {
+      "name": "jasonmc1993",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/jasonmc1993/pf2e-relics",
+  "version": "1.0",
+  "compatibility": {
+    "minimum": "10.282",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "label": "Relics & Gifts",
+      "name": "relics",
+      "path": "/packs/relics",
+      "system": "pf2e",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "pf2e",
+        "type": "system",
+        "compatibility": {
+          "minimum": "4.11.1"
+        }
+      }
+    ]
+  },
+  "manifest": "https://raw.githubusercontent.com/jasonmc1993/PF2e-Relics/main/module.json",
+  "download": "https://github.com/jasonmc1993/PF2e-Relics/archive/refs/heads/main.zip"
+}
